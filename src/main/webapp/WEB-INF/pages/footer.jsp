@@ -11,9 +11,8 @@
 </head>
 
 <body>
-		
 	<div class="footer">
-		<p style="font-size:11px;">2015 | design and programming: <spring:message code="footer.autor"/> | <a style="font-size:11px;" href='mailto:hrvoje.rogic@gmail.com'> hrvoje.rogic@gmail.com </a></p>
+		<p style="font-size:11px;"><spring:message code="footer.year"/> | <spring:message code="footer.designAndProgramming"/> <spring:message code="footer.author"/> | <spring:message code="footer.email"/> </p>
 	</div>
   	  
 </body>
