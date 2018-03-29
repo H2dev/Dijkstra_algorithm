@@ -16,12 +16,12 @@
 
 	<div class="header">
 		<div class="headline">
-			<a href="${pageContext.servletContext.contextPath}/distance_entry/">
+			<a href="${pageContext.servletContext.contextPath}/">
 				<img src="${pics}/dijsktra_logo_small.png">
 			</a>
 		</div>
 		<div class="headline">
-			<a href="${pageContext.servletContext.contextPath}/distance_entry/"
+			<a href="${pageContext.servletContext.contextPath}/"
 				style="text-decoration: none; color: inherit;"><span
 				class="headline_text"><spring:message code="mainTitle" /></span></a>
 		</div>
